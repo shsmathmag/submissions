@@ -4,7 +4,7 @@
 
 If you are familiar with LaTeX typesetting, please do us a favor and write your article in LaTeX. *If you choose this option, please also see our [LaTeX Guidelines](LATEX.md) to make the process of adding your article easier for us.*
 
-Beginning with the 5th edition, The Eagle's √−1 will be open to anything STEM-related, not just mathematics. Possible topics include physics, chemistry, biology, number theory, geometry, robotics, and programming. We will also accept expository articles on STEM history or famous scientists and mathematicians.
+Beginning with the 5th edition, The Eagle's √−1 will be open to **anything STEM-related**, not just mathematics. Possible topics include physics, chemistry, biology, number theory, geometry, robotics, and programming. We will also accept expository articles on STEM history or famous scientists and mathematicians. If you want to get a sense of what to write about, feel free to take a look at [last year's edition](https://github.com/shsmathmag/2025).
 
 ## Formatting
 
