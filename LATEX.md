@@ -75,7 +75,7 @@ We encourage you to use standard LaTeX formatting when writing your article. The
 3. Begin your document with:
 ```tex
 \section*{<TITLE>}
-\addcontentsline{toc}{section}{\texorpdfstring{<TITLE> by <YOUR NAME> '2X}
+\addcontentsline{toc}{section}{<TITLE> by <YOUR NAME> '2X}
 \noindent\textbf{<NAME> '2X}
 \medbreak
 ```
